@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    url: jdbc:mysql://node:3306/jpa
+    username: root
+    password: Maple1ns!
+  jpa:
+    show-sql: true
